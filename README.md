@@ -2,7 +2,7 @@
 - 👀 I’m interested in a fulltime/Part time job.
 - 🌱 I’m currently learning React, React native and MERN.
 - 💞️ I’m looking to collaborate on projects that will challange my acumen, make impact in the community and innovative products.
-- 📫 How to reach me ...
+- 📫 How to reach me https://josephani.com
 
 <!---
 JosephAni/JosephAni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
