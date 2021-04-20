@@ -30,6 +30,7 @@ grid-area: sidebar;
 
 .content {
 grid-area: content;
+align-self: center;  
 }
 
 .footer {
@@ -42,4 +43,18 @@ background-color: blue;
 
 .grid div:nth-child(odd) {
 background-color: grey;
+}
+
+@media screen and (min-width: 736px){
+.grid {
+display :grid; 
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 500px 500px 1fr;
+grid-template-areas:
+  ". title title ."
+  ". header header ."
+  ". sidebar sidebar ."
+  ". content content ."
+  ". footer footer .";
+  }
 }
